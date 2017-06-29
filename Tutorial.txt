@@ -1,0 +1,13 @@
+>>Cole a pasta "Bean" no local onde ficam os pacotes de código fonte. 
+(ou simplesmente copie a classe que está dentro dessa pasta e cole no seu projeto)
+
+>>Copie os arquivos da pasta "WEB" e cole no local onde ficam as páginas web.
+(cole tanto o "index" quanto a pasta "resources")
+
+>>Adicione as bibliotecas ao seu projeto (estão dentro da pasta "lib")
+
+>>Se você fez tudo certo, o código está pronto para ser executado!
+Execute o index, clique em "Gerar PDF" e em seguida clique em "Download"
+
+Em caso de dúvida sobre como escrever no PDF esse site pode ajudar: 
+http://www.softblue.com.br/blog/home/postid/7/GERANDO_PDF_EM_JAVA
